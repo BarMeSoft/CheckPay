@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\pre-dexed\release\classes-8a540435b20e2a8db4d5477bb02ee5c4e4b76d67.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\pre-dexed\debug\classes-fdbd3d70ededf2e1f0e8c28808ff778f1a2c1f02.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\pre-dexed\release\classes-0a017e767727482bdf54d01d5e3ec12f18b7ba46.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\pre-dexed\debug\classes-f08acf6e71d154dd41e06fd5379b03c8cdfeca26.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\pre-dexed\release\internal_impl-20.0.0-8fea25b8f2df25ebda6f967f1f1a1659261ce760.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\pre-dexed\release\classes-a4947575d799f19447aa7ca88ebfe4cf983a4bb3.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6804efbb78d7facc2e1aa107c7342bee83afae45"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-b4a33be0998bac3437d7cc0e8596a94d46a70c47.jar"
+        jar="C:\Program Files (x86)\Android\android-studio1\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\pre-dexed\release\classes-29c7ca46269f99ef7969bd5a3a1ec55d2760be0b.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.1.11\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="711351f12980fffdff7f1b0be9303ac6611affd8"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\pre-dexed\release\internal_impl-20.0.0-b714b636bfd1494acbf511171276f93758a8b7a3.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\wear\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-f9463ed910efeef5c339f49bdef5e5c5fb01db6b.jar"
+        jar="C:\Users\Dariel\Desktop\CheckNPay3\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

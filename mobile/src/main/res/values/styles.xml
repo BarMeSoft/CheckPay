@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    </style>
+    <style name="textStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColorHint">#ff000000</item>
+    </style>
+
+</resources>

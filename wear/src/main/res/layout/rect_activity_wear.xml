@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".WearActivity"
+    tools:deviceIds="wear_square"
+    android:background="@drawable/plantillaeuro144">
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:paddingRight="5dp">
+        <LinearLayout
+            android:visibility="visible"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/MenuNotificacion"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:layout_weight="1"
+                android:background="#64fff6f2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    style="@style/textStyle"
+                    android:layout_weight="1"
+                    android:text="¿Confirmar pago de 15€ a fecha 15-5-2014 en concepto de Matricula emitido por la Universidad?"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/text_pago"/>
+                </RelativeLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/denegacion144"
+                    android:onClick="cancelarPago"
+                    android:maxLines="1"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+                <Button
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/confirmacion144"
+                    android:onClick="confirmarPago"
+                    android:maxLines="1"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/PagoDenegado"
+            android:orientation="vertical">
+            <TextView
+                android:gravity="center"
+                style="@style/textStyle"
+                android:layout_weight="1"
+                android:text="Pago Denegado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+            <ImageView
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:background="@drawable/denegacion144"/>
+            <TextView
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/textStyle"
+                android:maxLines="1"
+                android:text="Deslice para salir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+            </LinearLayout>
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/PagoConfirmado"
+            android:orientation="vertical">
+            <TextView
+                android:gravity="center"
+                style="@style/textStyle"
+                android:layout_weight="1"
+                android:text="Pago Confirmado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:background="@drawable/confirmacion144"/>
+            <TextView
+                android:gravity="center"
+                android:layout_weight="1"
+                style="@style/textStyle"
+                android:text="Deslice para salir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+        </LinearLayout>
+
+
+</LinearLayout>
